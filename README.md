@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Thắng.
+- 👀 I’m interested in everything cool and useful, especially beautiful pixel-perfect web apps and anything makes life better, easier.
+- 🌱 I’m currently attending a Fullstack Web Development Bootcamp, but I'm also learning Golang in addition.
+- 💞️ I’m looking to collaborate on everyone who is trying to make a better world. 
+- 📫 Reach me at: lethang7794@gmail.com
