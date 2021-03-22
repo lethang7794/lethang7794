@@ -44,6 +44,6 @@
 
     - Balder - The hero - A canvas game:
 
-      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/6Hjnk3nhUN.gif" height="150"></a>
+      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/6Hjnk3nhUN.gif" height="200"></a>
 
 - 📫 Reach me at: lethang7794@gmail.com
