@@ -21,7 +21,7 @@
       [https://lqt-github-issues-browser.netlify.app/](https://lqt-github-issues-browser.netlify.app/)
 
     - Weather app:
-    - 
+
       <a href="https://lqt-weather-app.netlify.app/"><img src="http://g.recordit.co/5LBMJshNO6.gif" height="200"></a>
 
     - Random Quote Machine:
