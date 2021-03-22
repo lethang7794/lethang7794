@@ -22,28 +22,28 @@
 
     - Weather app:
 
-      <a href="https://lqt-weather-app.netlify.app/"><img src="http://g.recordit.co/5LBMJshNO6.gif" height="200"></a>
+      <a href="https://lqt-weather-app.netlify.app/"><img src="http://g.recordit.co/5LBMJshNO6.gif" height="auto" width="300px"></a>
 
     - Random Quote Machine:
 
-      <a href="https://lqt-quote-machine.netlify.app"><img src="http://g.recordit.co/spUhPRoacn.gif" height="200"></a>
+      <a href="https://lqt-quote-machine.netlify.app"><img src="http://g.recordit.co/spUhPRoacn.gif" height="auto" width="400px"></a>
 
     - Rock, Paper, Scissors:
 
-      <a href="https://lqt-rps.netlify.app/"><img src="http://g.recordit.co/K0it4Dux3o.gif" height="200"></a>
+      <a href="https://lqt-rps.netlify.app/"><img src="http://g.recordit.co/K0it4Dux3o.gif" height="auto" width="500px"></a>
 
   - **with HTML, CSS, Javascript**:
 
     - BMI calculator:
 
-      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/wfRyhNxcMj.gif" height="200"></a>
+      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/wfRyhNxcMj.gif" height="auto" width="500px"></a>
 
     - Recorder:
 
-      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/0jt4V7Rhy7.gif" height="200"></a>
+      <a href="https://lqt-recorder.netlify.app/"><img src="http://g.recordit.co/0jt4V7Rhy7.gif" height="auto" width="250px"></a>
 
     - Balder - The hero - A canvas game:
 
-      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/6Hjnk3nhUN.gif" height="200"></a>
+      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/6Hjnk3nhUN.gif" height="auto" width="250px"></a>
 
 - 📫 Reach me at: lethang7794@gmail.com
