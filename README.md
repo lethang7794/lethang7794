@@ -12,7 +12,7 @@ Some programming languages I know: Javascript, Ruby, Python, C, Golang.
 
 - Twitter Clone - [Demo](https://rails-sample-app-7794.herokuapp.com/)
 
-  <a href="https://rails-sample-app-7794.herokuapp.com/"><img src="https://i.imgur.com/ztPnh4P.png" height="auto" width="300px"></a>
+  <a href="https://rails-sample-app-7794.herokuapp.com/"><img src="https://i.imgur.com/ztPnh4P.png" height="auto" width="300px" target="_blank" ref="noreferrer"></a>
 
 ### **With React**:
 
