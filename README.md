@@ -8,13 +8,13 @@ Some programming languages I know: Javascript, Ruby, Python, C, Golang.
 
 ## ✅ Things I've done:
 
-### With Rails:
+### **With Ruby on Rails**:
 
 - Twitter Clone - [Demo](https://rails-sample-app-7794.herokuapp.com/)
 
   <a href="https://rails-sample-app-7794.herokuapp.com/"><img src="https://i.imgur.com/ztPnh4P.png" height="auto" width="300px"></a>
 
-### With React:
+### **With React**:
 
 - Muvi - a movie browser - [Demo](https://lqt-movie-browser.netlify.app/)
 
@@ -36,7 +36,7 @@ Some programming languages I know: Javascript, Ruby, Python, C, Golang.
 
   <a href="https://lqt-rps.netlify.app/"><img src="http://g.recordit.co/K0it4Dux3o.gif" height="auto" width="400px"></a>
 
-### Responsive Design:
+### **Responsive Design**:
 
 - A Technical Documentation Page - [Demo](https://codepen.io/lethang7794/full/dypWXNK)
 
@@ -62,7 +62,7 @@ Some programming languages I know: Javascript, Ruby, Python, C, Golang.
 
   <a href="https://codepen.io/lethang7794/full/XWjpbdj"><img src="https://i.imgur.com/MAccfeg.png" height="auto" width="250px"></a>
 
-### **with HTML, CSS, Javascript**:
+### **With HTML, CSS, Javascript**:
 
 - BMI Calculator - [Demo](https://lqt-bmi-calculator.netlify.app/)
 
