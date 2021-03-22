@@ -21,21 +21,22 @@
       [https://lqt-github-issues-browser.netlify.app/](https://lqt-github-issues-browser.netlify.app/)
 
     - Weather app:
-      <a href="https://lqt-weather-app.netlify.app/"><img src="http://g.recordit.co/5LBMJshNO6.gif" max-height="200"></a>
+    - 
+      <a href="https://lqt-weather-app.netlify.app/"><img src="http://g.recordit.co/5LBMJshNO6.gif" height="200"></a>
 
     - Random Quote Machine:
 
-      <a href="https://lqt-quote-machine.netlify.app"><img src="http://g.recordit.co/spUhPRoacn.gif" max-height="200"></a>
+      <a href="https://lqt-quote-machine.netlify.app"><img src="http://g.recordit.co/spUhPRoacn.gif" height="200"></a>
 
     - Rock, Paper, Scissors:
 
-      <a href="https://lqt-rps.netlify.app/"><img src="http://g.recordit.co/K0it4Dux3o.gif" max-height="200"></a>
+      <a href="https://lqt-rps.netlify.app/"><img src="http://g.recordit.co/K0it4Dux3o.gif" height="200"></a>
 
   - **with HTML, CSS, Javascript**:
 
     - BMI calculator:
 
-      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/wfRyhNxcMj.gif" max-height="200"></a>
+      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/wfRyhNxcMj.gif" height="200"></a>
 
     - Recorder:
 
@@ -43,6 +44,6 @@
 
     - Balder - The hero - A canvas game:
 
-      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/6Hjnk3nhUN.gif" max-height="150"></a>
+      <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/6Hjnk3nhUN.gif" height="150"></a>
 
 - 📫 Reach me at: lethang7794@gmail.com
