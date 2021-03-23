@@ -18,7 +18,7 @@ Some programming languages I know: Javascript, Ruby, Python, C, Golang.
 
 - Muvi - a movie browser - [Demo](https://lqt-movie-browser.netlify.app/)
 
-  <a href="https://lqt-movie-browser.netlify.app/"><img src="https://i.imgur.com/yUCjE2I.webp" height="auto" width="500px"></a>
+  <a href="https://lqt-movie-browser.netlify.app/"><img src="https://i.imgur.com/yUCjE2I.png" height="auto" width="500px"></a>
 
 - Github Issue Browser - [Demo](https://lqt-github-issues-browser.netlify.app/)
 
