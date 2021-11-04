@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Thắng.
 
-I'm a Full Stack Web Developer.
+I'm a Junior Full Stack Web Developer. 
 
-I know Ruby on Rails and MERN stack (MongoDB, Express, React, NodeJS) with a strong understanding about RESTful API.
+My current stack is Golang, MySQL, React.
 
-Some programming languages I know: Javascript, Ruby, Python, C, Golang.
+I also have many hands-on experience, projects with MERN stack (MongoDB, ExpressJS, React, Node) when I went to a bootcamp at CoderSchool; and Ruby on Rails when I taught myself web development for more than a year.
 
 ## ✅ Things I've done:
 
