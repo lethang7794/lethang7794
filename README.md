@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Thắng.
 
-I'm a Junior Full Stack Web Developer. 
+I'm a Full Stack Web Developer.
 
 My current stack is Golang, MySQL, React.
 
