@@ -4,9 +4,12 @@ I'm a Full Stack Web Developer.
 
 My current stack is Golang, MySQL, React.
 
-I also have many hands-on experience, projects with MERN stack (MongoDB, ExpressJS, React, Node) when I went to a bootcamp at CoderSchool; and Ruby on Rails when I taught myself web development for more than a year.
+I also have many hands-on experience, projects with
 
-## ✅ Things I've done:
+- MERN stack (MongoDB, ExpressJS, React, Node) when I went to a boot-camp at CoderSchool;
+- Ruby on Rails when I taught myself web development for more than a year.
+
+## ✅ Things I've done a long time ago:
 
 ### **With Ruby on Rails**:
 
