@@ -13,22 +13,22 @@ I also have many hands-on experience, projects with
 - MERN stack (MongoDB, ExpressJS, React, Node) when I went to a boot-camp at CoderSchool;
 - Ruby on Rails when I taught myself web development for more than a year.
 
-## 🕹️ Things I've worked on recently
+## 🆕 Things I've worked on recently
 
 - [_AWSsome_](https://awssome.vercel.app/): Mind-maps for AWS Certificates.
 
-- [_Cantrill's AWS Courses Comparer_](https://cantrill-aws.vercel.app): This helps me get my 4th, 5th and 6th AWS certificates.
+- [_Cantrill's AWS Courses Comparer_](https://cantrill-aws.vercel.app): This helps me get my 4th, 5th & 6th AWS certificates.
 
 - [GTDB](https://gtdb.vercel.app): Be a safe driver 🚲🛵🏍️🚗 (Road signs, road surface markings, driving laws...)
 
-## 🎮 Things I've done for myself but maybe helpful for others
+## 🆓 Things I've done for myself but may be helpful for others
 
-- [Notes about things I learned](https://github.com/lethang7794/notes)
-- [My dotfiles](https://github.com/lethang7794/dotfiles)
-- [Awesome Web Dev Content](https://github.com/lethang7794/awesome-web-dev-content)
+- [Notes about things I learned](https://lethang7794.github.io/notes/)
 - [Notes for _AWS Certified Solution Architecture - Associate (SAA-C03)_](https://lethang7794.github.io/aws-sa-associate-saac03)
 - [Notes for _AWS Certified Developer - Associate (DVA-C02)_](https://lethang7794.github.io/aws-dev-associate)
 - [Notes for _Fundamentals of DevOps and Software Delivery_ book](https://lethang7794.github.io/devops-book/)
+- [Awesome Web Dev Content](https://github.com/lethang7794/awesome-web-dev-content)
+- [My dotfiles](https://github.com/lethang7794/dotfiles)
 
 ## ✅ Things I've done a long time ago
 
