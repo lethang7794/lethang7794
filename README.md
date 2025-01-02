@@ -1,6 +1,10 @@
-# 👋 Hi, I’m Thắng.
+# 👋 Hi, I’m Thắng
 
-I'm a Full Stack Web Developer.
+I'm
+
+- a **Full Stack Web Developer** (by choice)
+- a **6x AWS Certified - Cloud Enthusiastic** (by chance)
+- a Mechatronics Engineer (by training)
 
 My current stack is Golang, MySQL, React.
 
@@ -9,15 +13,38 @@ I also have many hands-on experience, projects with
 - MERN stack (MongoDB, ExpressJS, React, Node) when I went to a boot-camp at CoderSchool;
 - Ruby on Rails when I taught myself web development for more than a year.
 
-## ✅ Things I've done a long time ago:
+## 🕹️ Things I've worked on recently
 
-### **With Ruby on Rails**:
+- [_AWSsome_](https://awssome.vercel.app/): Mind-maps for AWS Certificates.
 
-- Twitter Clone - No more Demo (Heroku shut down their free tier in 2022 😭) [(Source Code)](https://github.com/lethang7794/rails_sample_app)
+- [_Cantrill's AWS Courses Comparer_](https://cantrill-aws.vercel.app): This helps me get my 4th, 5th and 6th AWS certificates.
+
+- [GTDB](https://gtdb.vercel.app): Be a safe driver 🚲🛵🏍️🚗 (Road signs, road surface markings, driving laws...)
+
+## 🎮 Things I've done for myself but maybe helpful for others
+
+- [Notes about things I learned](https://github.com/lethang7794/notes)
+- [My dotfiles](https://github.com/lethang7794/dotfiles)
+- [Awesome Web Dev Content](https://github.com/lethang7794/awesome-web-dev-content)
+- [Notes for _AWS Certified Solution Architecture - Associate (SAA-C03)_](https://lethang7794.github.io/aws-sa-associate-saac03)
+- [Notes for _AWS Certified Developer - Associate (DVA-C02)_](https://lethang7794.github.io/aws-dev-associate)
+- [Notes for _Fundamentals of DevOps and Software Delivery_ book](https://lethang7794.github.io/devops-book/)
+
+## ✅ Things I've done a long time ago
+
+<details>
+
+<summary>If you really want to see, click to expand ...</summary>
+
+### **With Ruby on Rails**
+
+- Twitter Clone [(Source Code)](https://github.com/lethang7794/rails_sample_app)
+
+  (No more Demo - Heroku shut down their free tier in 2022 😭)
 
   <a href="#"><img src="https://i.imgur.com/ztPnh4P.png" height="auto" width="300px" target="_blank" ref="noreferrer"></a>
 
-### **With React**:
+### **With React**
 
 - Muvi - a movie browser - [Demo](https://lqt-movie-browser.netlify.app/)
 
@@ -78,5 +105,7 @@ I also have many hands-on experience, projects with
 - Balder - The hero - A canvas game - [Demo](https://balder-the-hero.netlify.app/)
 
   <a href="https://balder-the-hero.netlify.app/"><img src="assets/Balder-the-hero.png" height="auto" width="250px"></a>
+
+</details>
 
 ## 📫 Reach me at: <lethang7794@gmail.com>
