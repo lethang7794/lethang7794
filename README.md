@@ -3,7 +3,7 @@
 I'm
 
 - a **Full Stack Web Developer** (by choice)
-- a **6x AWS Certified - Cloud Enthusiastic** (by chance)
+- a **[6x AWS Certified](https://www.credly.com/users/lequangthang/) - Cloud Enthusiastic** (by chance)
 - a Mechatronics Engineer (by training)
 
 My current stack is Golang, MySQL, React.
