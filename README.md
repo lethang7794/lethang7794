@@ -13,9 +13,9 @@ I also have many hands-on experience, projects with
 
 ### **With Ruby on Rails**:
 
-- Twitter Clone - [Demo](https://rails-sample-app-7794.herokuapp.com/)
+- Twitter Clone - No more Demo (Heroku shut down their free tier in 2022 😭) [(Source Code)](https://github.com/lethang7794/rails_sample_app)
 
-  <a href="https://rails-sample-app-7794.herokuapp.com/"><img src="https://i.imgur.com/ztPnh4P.png" height="auto" width="300px" target="_blank" ref="noreferrer"></a>
+  <a href="#"><img src="https://i.imgur.com/ztPnh4P.png" height="auto" width="300px" target="_blank" ref="noreferrer"></a>
 
 ### **With React**:
 
@@ -29,17 +29,17 @@ I also have many hands-on experience, projects with
 
 - Weather app - [Demo](https://lqt-weather-app.netlify.app/)
 
-  <a href="https://lqt-weather-app.netlify.app/"><img src="http://g.recordit.co/5LBMJshNO6.gif" height="auto" width="250px"></a>
+  <a href="https://lqt-weather-app.netlify.app/"><img src="assets/Weather-App.png" height="auto" width="250px"></a>
 
 - Random Quote Machine - [Demo](https://lqt-quote-machine.netlify.app)
 
-  <a href="https://lqt-quote-machine.netlify.app"><img src="http://g.recordit.co/spUhPRoacn.gif" height="auto" width="250px"></a>
+  <a href="https://lqt-quote-machine.netlify.app"><img src="assets/Quote-Machine.png" height="auto" width="250px"></a>
 
 - Rock, Paper, Scissors - [Demo](https://lqt-rps.netlify.app/)
 
-  <a href="https://lqt-rps.netlify.app/"><img src="http://g.recordit.co/K0it4Dux3o.gif" height="auto" width="400px"></a>
+  <a href="https://lqt-rps.netlify.app/"><img src="assets/Rock-paper-scissors.png" height="auto" width="400px"></a>
 
-### **Responsive Design**:
+### **Responsive Design**
 
 - A Technical Documentation Page - [Demo](https://codepen.io/lethang7794/full/dypWXNK)
 
@@ -65,18 +65,18 @@ I also have many hands-on experience, projects with
 
   <a href="https://codepen.io/lethang7794/full/XWjpbdj"><img src="https://i.imgur.com/MAccfeg.png" height="auto" width="250px"></a>
 
-### **With HTML, CSS, Javascript**:
+### **With HTML, CSS, Javascript**
 
 - BMI Calculator - [Demo](https://lqt-bmi-calculator.netlify.app/)
 
-  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="http://g.recordit.co/wfRyhNxcMj.gif" height="auto" width="400px"></a>
+  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="assets/BMI-Calculator.png" height="auto" width="400px"></a>
 
 - Recorder - [Demo](https://lqt-recorder.netlify.app/)
 
-  <a href="https://lqt-recorder.netlify.app/"><img src="http://g.recordit.co/0jt4V7Rhy7.gif" height="auto" width="250px"></a>
+  <a href="https://lqt-recorder.netlify.app/"><img src="assets/Recorder.png" height="auto" width="250px"></a>
 
 - Balder - The hero - A canvas game - [Demo](https://balder-the-hero.netlify.app/)
 
-  <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/6Hjnk3nhUN.gif" height="auto" width="250px"></a>
+  <a href="https://balder-the-hero.netlify.app/"><img src="assets/Balder-the-hero.png" height="auto" width="250px"></a>
 
-## 📫 Reach me at: lethang7794@gmail.com
+## 📫 Reach me at: <lethang7794@gmail.com>
