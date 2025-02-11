@@ -13,7 +13,7 @@ I also have many hands-on experience, projects with
 - MERN stack (MongoDB, ExpressJS, React, Node) when I went to a boot-camp at CoderSchool;
 - Ruby on Rails when I taught myself web development for more than a year.
 
-## 🆕 Things I've worked on recently
+## ✨ Things I've worked on recently
 
 - [gtdb](https://gtdb.app): Use social network to spread knowledge about safe driving: Road signs, road surface markings, driving laws...
 
@@ -21,7 +21,7 @@ I also have many hands-on experience, projects with
 
 - [_Cantrill's AWS Courses Comparer_](https://cantrill-aws.vercel.app): This helps me get my 4th, 5th & 6th AWS certificates.
 
-## 🆓 Things I've done for myself but may be helpful for others
+## 📔 Things I've done for myself but may be helpful for others
 
 - [Notes about things I learned](https://lethang7794.github.io/notes/)
 - [Notes for _AWS Certified Solution Architecture - Associate (SAA-C03)_](https://lethang7794.github.io/aws-sa-associate-saac03)
@@ -30,7 +30,7 @@ I also have many hands-on experience, projects with
 - [Awesome Web Dev Content](https://github.com/lethang7794/awesome-web-dev-content)
 - [My dotfiles](https://github.com/lethang7794/dotfiles)
 
-## ✅ Things I've done a long time ago
+## 🦖 Things I've done a long time ago
 
 <details>
 
@@ -111,3 +111,7 @@ I also have many hands-on experience, projects with
 ## 📫 Let's connect
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lethang7794@gmail.com)  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/lethang7794)
+
+## 📈 Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=lethang7794&style=for-the-badge&label=PROFILE+VIEWS)
