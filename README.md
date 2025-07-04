@@ -21,9 +21,9 @@ I also have many hands-on experience, projects with
   - [Building REST APIs with Amazon API Gateway and AWS Lambda](https://lethang7794.github.io/fcj-rest-api-with-api-gateway-and-lambda-workshop/)
   - [Integrate API Gateway with frontend hosted in S3](https://lethang7794.github.io/fcj-integrate-api-gateway-with-frontend-workshop/)
 
-- [AWS Explorer](https://aws-explorer.vercel.app/): Browse, explorer, and find your next AWS services; find the docs you need; download architecture icons...
+- [_AWS Explorer_](https://aws-explorer.vercel.app/): Browse, explorer, and find your next AWS services; find the docs you need; download architecture icons...
 
-- [gtdb](https://gtdb.app): Use social network to spread knowledge about safe driving: Road signs, road surface markings, driving laws...
+- [_gtdb_](https://gtdb.app): Use social network to spread knowledge about safe driving: Road signs, road surface markings, driving laws...
 
 - [_AWSsome_](https://awssome.vercel.app/): Mind-maps for AWS Certificates.
 
@@ -118,7 +118,7 @@ I also have many hands-on experience, projects with
 
 ## 📫 Let's connect
 
-[<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 256"><g fill="none"><rect width="256" height="256" fill="#fff" rx="60"/><rect width="256" height="256" fill="#0a66c2" rx="60"/><path fill="#fff" d="M184.715 217.685h29.27a4 4 0 0 0 4-3.999l.015-61.842c0-32.323-6.965-57.168-44.738-57.168c-14.359-.534-27.9 6.868-35.207 19.228a.32.32 0 0 1-.595-.161V101.66a4 4 0 0 0-4-4h-27.777a4 4 0 0 0-4 4v112.02a4 4 0 0 0 4 4h29.268a4 4 0 0 0 4-4v-55.373c0-15.657 2.97-30.82 22.381-30.82c19.135 0 19.383 17.916 19.383 31.834v54.364a4 4 0 0 0 4 4M38 59.628c0 11.864 9.767 21.626 21.632 21.626c11.862-.001 21.623-9.769 21.623-21.631C81.253 47.761 71.491 38 59.628 38C47.762 38 38 47.763 38 59.627m6.959 158.058h29.307a4 4 0 0 0 4-4V101.66a4 4 0 0 0-4-4H44.959a4 4 0 0 0-4 4v112.025a4 4 0 0 0 4 4"/></g></svg>](https://www.linkedin.com/in/thanglequang) [<svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="-32 0 512 512"><path fill="currentColor" d="M48 32C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm98.88 133.234c19.636 0 37.082 6.789 49.929 16.971c11.88 9.452 17.444 18.907 22.298 27.393l-33.923 16.949c-2.427-5.565-5.347-11.387-12.846-17.682c-8.248-6.552-16.478-8.484-23.524-8.484c-27.626 0-42.17 25.693-42.17 54.287c0 37.573 19.161 56.22 42.17 56.22c22.3 0 31.278-15.51 37.08-25.435L219.6 302.66c-6.315 9.926-12.374 19.635-25.95 29.069c-7.262 5.09-23.977 15.037-47.736 15.037C100.586 346.766 64 313.81 64 255.87c0-50.636 34.415-90.637 82.88-90.637m75.483 5.328h45.565L303.31 292.24l35.125-121.678H384l-59.379 171.112H281.01z"/></svg>](https://lethang7794.github.io/)
+[LinkedIn](https://www.linkedin.com/in/thanglequang) | [Resume/Portfolio](https://lethang7794.github.io/)
 
 ## 📈 Stats
 
